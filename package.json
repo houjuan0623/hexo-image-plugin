@@ -1,0 +1,14 @@
+{
+  "name": "hexo-image-plugin",
+  "version": "1.0.0",
+  "description": "在hexo中加载图片的插件。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seconp",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
